@@ -1,5 +1,5 @@
 /* After importing the data, remove the '"' from all the rows*/
-/*UPDATE used_car_sales
+UPDATE used_car_sales
 	SET ["ID"] = REPLACE(["ID"],'"',''),
 		["BodyType"] = REPLACE(["BodyType"],'"',''),
 		["DriveType"] = REPLACE(["DriveType"],'"',''),
@@ -21,12 +21,12 @@ ALTER TABLE dbo.used_car_sales ALTER COLUMN yearsold int
 ALTER TABLE dbo.used_car_sales ALTER COLUMN Mileage bigint*/
 
 /* Remove rows that contain null values in the price sold column(32 rows)*/
-/*DELETE FROM used_car_sales
-WHERE pricesold = ''*/
+DELETE FROM used_car_sales
+WHERE pricesold = ''
 
 /* Remove rows that contain null values in the NumCylinders column(110 rows)*/
-/*DELETE FROM used_car_sales
-WHERE NumCylinders=''*/
+DELETE FROM used_car_sales
+WHERE NumCylinders=''
 
 
 
