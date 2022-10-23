@@ -10,4 +10,4 @@ This provides the SQL queries used for:
 - Cleaning the data
 - Analysing the data
 
-The visualisations are performed through Tableau which paints an explanation on the used car sales
+The visualisations are performed through Microsoft PowerBi which paints an explanation on the used car sales
