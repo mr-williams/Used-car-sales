@@ -28,6 +28,10 @@ WHERE pricesold = ''
 DELETE FROM used_car_sales
 WHERE NumCylinders=''
 
+/* Remove rows where the year the car was sold was 2018(1170 rows)*/
+DELETE FROM used_car_sales
+WHERE yearsold = 2018
+
 
 
 
