@@ -10,4 +10,4 @@ This provides the SQL queries used for:
 - Cleaning the data
 - Analysing the data
 
-The visualisations are performed through Microsoft PowerBi which paints an explanation on the used car sales which can be downloaded and viewed through [here](https://github.com/mr-williams/Used-car-sales/raw/main/used_car_analysis.pbix)
+The visualisations are performed through Microsoft PowerBi which paints an explanation on the used car sales which can be downloaded and viewed through [here](https://github.com/mr-williams/Used-car-sales/raw/main/used_car_analysis.pbix).
