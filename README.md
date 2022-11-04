@@ -11,3 +11,6 @@ This provides the SQL queries used for:
 - Analysing the data
 
 The visualisations are performed through Microsoft PowerBi which paints an explanation on the used car sales which can be downloaded and viewed through [here](https://github.com/mr-williams/Used-car-sales/raw/main/used_car_analysis.pbix).
+
+Below is a preiview image of what the dashboard looks like:
+![Preview](https://user-images.githubusercontent.com/70599292/200035344-eeadfde2-2b93-4933-bd0b-c881ae0173e8.png)
